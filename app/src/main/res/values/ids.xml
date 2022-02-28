@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_cancel" type="id" />
+    <item name="btn_ok" type="id" />
+    <item name="et_picturURL" type="id" />
+    <item name="et_number" type="id" />
+    <item name="et_age" type="id" />
+    <item name="et_dateElection" type="id" />
+    <item name="et_tv_presidentldName" type="id" />
+    <item name="textView6" type="id" />
+    <item name="textView7" type="id" />
+    <item name="textView5" type="id" />
+    <item name="tv_presidentldNumber" type="id" />
+    <item name="textView3" type="id" />
+    <item name="textView2" type="id" />
+    <item name="textView" type="id" />
+</resources>
