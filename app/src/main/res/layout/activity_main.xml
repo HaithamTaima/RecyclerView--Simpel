@@ -21,6 +21,7 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/lv_presidentList"
+        tools:listitem="@layout/one_lin_president"
         android:layout_width="427dp"
         android:layout_height="620dp"
         android:layout_marginTop="8dp"
