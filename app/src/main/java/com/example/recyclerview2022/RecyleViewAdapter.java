@@ -45,6 +45,7 @@ public class RecyleViewAdapter extends RecyclerView.Adapter<RecyleViewAdapter.My
             @Override
             public void onClick(View view) {
                 Intent intent =new Intent(context,AddEditOne.class);
+                intent.putExtra("id",presidentList.get(position).getId());
                 context.startActivity(intent);
             }
         });
